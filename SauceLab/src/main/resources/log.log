@@ -1,0 +1,4 @@
+15:37:45.502 [main] INFO  - Epic sadface: Username and password do not match any user in this service
+15:37:46.140 [main] ERROR - Something in the error message has changed.
+15:37:46.142 [main] INFO  - Epic sadface: Username is required
+15:37:46.835 [main] INFO  - User Logged in successfully
